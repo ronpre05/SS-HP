@@ -1,0 +1,42 @@
+NAME : clustered and sporadic locations
+COMMENT : created by warren g. jackson
+HOTEL_LOCATION
+0 0
+AIRPORT_LOCATION
+9 8
+POINTS_OF_INTEREST
+0 1
+0 2
+0 3
+0 4
+1 0
+1 1
+1 2
+1 3
+1 4
+2 0
+2 1
+2 2
+2 3
+2 4
+3 0
+3 1
+3 2
+3 3
+3 4
+4 0
+4 1
+4 2
+4 3
+4 4
+7 6
+7 7
+7 8
+8 6
+8 7
+8 8
+9 6
+9 7
+8 1
+1 8
+EOF

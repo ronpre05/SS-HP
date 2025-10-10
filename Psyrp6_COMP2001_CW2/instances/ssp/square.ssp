@@ -1,0 +1,14 @@
+NAME : square
+COMMENT : square by warren g. jackson
+HOTEL_LOCATION
+0 0
+AIRPORT_LOCATION
+0 5
+POINTS_OF_INTEREST
+5 0
+10 0
+10 5
+10 10
+5 10
+0 10
+EOF
